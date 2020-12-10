@@ -1,0 +1,29 @@
+body {
+    background-color: cadetblue;
+}
+.inventory {
+    display: flex;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.container {
+    border: solid 2px black;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    width: 70px;
+    height: 30px;
+    margin-top: 30px;
+}
+input {
+    width: 50px;
+}
